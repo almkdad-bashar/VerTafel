@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ],
+    "name": "Verdener Tafel",
+    "slug": "Verdener Tafel",
+    "android": {
+      "package": "com.AlmkdadInc.VerTafel"
+    }
+  }
+}

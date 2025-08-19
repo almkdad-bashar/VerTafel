@@ -1,0 +1,6 @@
+{
+  "waitingUnit": 5,
+  "repeatsAWeek": 3,
+  "startSellingTime": "11:30",
+  "deleteReservationDeadline": "09:00"
+}
